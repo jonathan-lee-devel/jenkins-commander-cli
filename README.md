@@ -94,3 +94,5 @@ Point the command to the file using the --build-jobs-tracking-yaml / -bjty optio
 ```shell
 python -m jenkins_commander_cli track-build-jobs-status -bjty sample-builds-tracking.yaml
 ```
+
+ ![Jenkins_Commander](https://github.com/jonathan-lee-devel/jenkins-commander-cli/assets/43010048/c0c1358a-af3b-4e57-bf38-19b8627101c2)
