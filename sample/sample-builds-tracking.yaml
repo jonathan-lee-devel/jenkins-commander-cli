@@ -1,0 +1,6 @@
+build:
+  hosts:
+  - jobs:
+    - build_index: 5
+      end: job/User_Input_Job
+    url: http://localhost:8080
