@@ -1,5 +1,5 @@
-# parat
-## (Packaging and Release Automation Tool)
+# jenkins-commander-cli
+Lightweight alternative to Spinnaker
 
 ## Usage
 ### With Docker
